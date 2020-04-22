@@ -1,1 +1,8 @@
-nome,cognome,
+{
+  "message": "my commit message",
+  "committer": {
+    "name": "My name is claudio",
+    "email": "my email claudioranaldi@catenate.com"
+  },
+  "content": "base64encoded"
+}
