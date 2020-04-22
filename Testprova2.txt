@@ -1,1 +1,14 @@
-claudio, ranaldi
+<tns:decodingtable xmlns:tns="http://www.example.org/SchemaPatternPropertyConfig">
+  <tns:ISOdec>
+    <tns:ISO>italia</tns:ISO>
+    <tns:country>ITA</tns:country>
+  </tns:ISOdec>
+  <tns:ISOdec>
+    <tns:ISO>brasile</tns:ISO>
+    <tns:country>BRA</tns:country>
+  </tns:ISOdec>
+  <tns:ISOdec>
+    <tns:ISO>francia</tns:ISO>
+    <tns:country>FRA</tns:country>
+  </tns:ISOdec>
+</tns:decodingtable>
